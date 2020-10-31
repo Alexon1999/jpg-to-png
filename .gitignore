@@ -1,0 +1,7 @@
+.vscode/
+env/
+images/
+new/
+app.py
+astro.py
+*.png
